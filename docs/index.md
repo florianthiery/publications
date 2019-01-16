@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 15th January 2019 – full list at_ [http://pub.fthiery.de](http://pub.fthiery.de)
+_last update on 16th January 2019 – full list at_ [http://pub.fthiery.de](http://pub.fthiery.de)
 
 ## Journal Articles
 
@@ -161,3 +161,37 @@ Florian Thiery. (2019, January 15). RGZM/amt-eaa2018 v0.1 (Version v0.1). Zenodo
 Florian Thiery. (2018, August 11). RGZM/amt-caa2018 1.0 (Version 1.0). Zenodo. [http://doi.org/10.5281/zenodo.1343916](http://doi.org/10.5281/zenodo.1343916) [https://github.com/RGZM/amt-caa2018](https://github.com/RGZM/amt-caa2018)
 
 Florian Thiery. (2018, March 6). RGZM/amt-gt2018: first release (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.1189254](http://doi.org/10.5281/zenodo.1189254) [https://github.com/RGZM/amt-gt2018](https://github.com/RGZM/amt-gt2018)
+
+## Best Practice Papers
+
+_Einrechnung von Laserterminals LCT für Europas Space-Data-__Highway EDRS_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2013.02. URL: [http://t1p.de/p4vi](http://t1p.de/p4vi).
+
+_KOMP3DMETROLOGY I und II – Kompetenzweiterentwicklung für den Kooperationsaufbau, Wissens- und Technologietransfer im Bereich 3D-Metrology_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2011.16. URL: [http://t1p.de/fr42](http://t1p.de/fr42).
+
+## Jahresberichte
+
+### mainzed – Mainzer Zentrum für Digitalität in den Geistes- und Kulturwissenschaften
+
+_mainzed Jahresbericht : 2017/2018_, K.-C. Bruhn (Hg.), A. Klammt. URL: [http://t1p.de/4xnk](http://t1p.de/4xnk).
+
+_mainzed Jahresbericht : 2016/2017_, K.-C. Bruhn (Hg.), A. Klammt. URN: [urn:nbn:de:hebis:77-publ-572507](http://nbn-resolving.de/urn:nbn:de:hebis:77-publ-572507).
+
+_mainzed Jahresbericht : 2015/2016_, K.-C. Bruhn (Hg.), A. Klammt. URN: [urn:nbn:de:hebis:77-publ-546123](http://nbn-resolving.de/urn:nbn:de:hebis:77-publ-546123).
+
+### i3mainz – Institut für Raumbezogene Informations- und Messtechnik
+
+_i3mainz Jahresbericht : 2017_, F. Boochs, N. Bruhn. URL: [http://t1p.de/0kba](http://t1p.de/0kba).
+
+_i3mainz Jahresbericht : 2016_, F. Boochs, N. Bruhn. URL: [http://t1p.de/9u10](http://t1p.de/9u10).
+
+_i3mainz Jahresbericht : 2015_, F. Boochs, N. Bruhn, J. Wachter. URL: [http://t1p.de/8aey](http://t1p.de/8aey).
+
+_i3mainz Jahresbericht : 2014_, F. Boochs, N. Bruhn, J. Wachter. URL: [http://t1p.de/8u3x](http://t1p.de/8u3x).
+
+_i3mainz Jahresbericht : 2013_, F. Boochs, N. Bruhn, J. Wachter. URL: [http://t1p.de/3hjz](http://t1p.de/3hjz).
+
+_i3mainz Jahresbericht : 2012_, F. Boochs, A. Gundlach, J. Wachter. URL: [http://t1p.de/nmx3](http://t1p.de/nmx3).
+
+_i3mainz Jahresbericht : 2011,_ F. Boochs et. al.. URL: [http://t1p.de/5sil](http://t1p.de/5sil).
+
+_i3mainz Jahresbericht : 2010,_ F. Boochs et. al.. URL: [http://t1p.de/41eg](http://t1p.de/41eg).
