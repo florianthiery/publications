@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 16th January 2019 – full list at_ [http://pub.fthiery.de](http://pub.fthiery.de)
+_last update on 16th January 2019 – full list at_ [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
 ## Journal Articles
 
@@ -164,7 +164,7 @@ Florian Thiery. (2018, March 6). RGZM/amt-gt2018: first release (Version v1.0). 
 
 ## Best Practice Papers
 
-_Einrechnung von Laserterminals LCT für Europas Space-Data-__Highway EDRS_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2013.02. URL: [http://t1p.de/p4vi](http://t1p.de/p4vi).
+_Einrechnung von Laserterminals LCT für Europas Space-Data-Highway EDRS_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2013.02. URL: [http://t1p.de/p4vi](http://t1p.de/p4vi).
 
 _KOMP3DMETROLOGY I und II – Kompetenzweiterentwicklung für den Kooperationsaufbau, Wissens- und Technologietransfer im Bereich 3D-Metrology_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2011.16. URL: [http://t1p.de/fr42](http://t1p.de/fr42).
 
