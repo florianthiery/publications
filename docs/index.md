@@ -1,4 +1,4 @@
-# List of Publications by Florian Thiery M.Sc.
+# List of Publications
 
 _last update on 15th January 2019 – full list at_ [http://pub.fthiery.de](http://pub.fthiery.de)
 
