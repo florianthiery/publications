@@ -72,9 +72,19 @@ _Linked Samian Ware: Potentiale von Linked Data in der Archäologie_, 5. Worksho
 
 ## Conference Poster
 
+### 2019
+
+_RGZM-Meta-Index: A central Linked Data Hub for aligning distributed databases_, with Allard Mees, Guido Heinz, Linked Pasts IV, Mainz, Germany, 12nd December 2019. DOI: [10.5281/zenodo.2222237](https://doi.org/10.5281/zenodo.2222237).
+
+### 2017
+
 _labeling system_, with Axel Kunz, Matthias Dufner, Get Together DH-RMU, Mainz, Germany, 21stSeptember 2017. DOI: [10.5281/zenodo.921997](https://doi.org/10.5281/zenodo.921997).
 
+### 2015
+
 _Das Labeling System – ein freier Baukasten für kontrollierte Vokabulare_, with Michael Piotrowski and Kai-Christian Bruhn, Jahrestagung Digital Humanities im deutschsprachigen Raum, Graz, Austria, 25th February 2015. DOI: [10.5281/zenodo.2540530](https://doi.org/10.5281/zenodo.2540530).
+
+### 2014
 
 _Das Labeling System – Lösen der Mehrdeutigkeiten von Räumen und deren Funktion_, with Kai-Christian Bruhn, Forum DH Mainz, Mainz, Germany, 30th July 2014. DOI: [10.5281/zenodo.292974](https://doi.org/10.5281/zenodo.292974).
 
