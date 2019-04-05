@@ -16,13 +16,13 @@ with Stefan Hauth and Martin Schlüter: _Modular Imaging Total Stations - Sensor
 
 ## My own Papers
 
-_Das Internet als Daten-Netzwerk: Die Zukunft der Archäologie?_, Wintervorträge 2019, Gesellschaft der Freunde des Römisch-Germanischen Zentralmuseums in Mainz e. V. Mainz, Germany, 02th April 2019. DOI: [10.5281/zenodo.2620929](https://doi.org/10.5281/zenodo.2620929).
+_Archaeology 4.0: Archaeology in the Third Era of Computing_, 05th April 2019. DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
 
 ## Conference Talks
 
 ### 2019
 
-_Das Internet als Daten-Netzwerk: Die Zukunft der Archäologie?_, Wintervorträge 2019, Gesellschaft der Freunde des Römisch-Germanischen Zentralmuseums in Mainz e. V. Mainz, Germany, 02th April 2019. DOI: [10.5281/zenodo.2620929](https://doi.org/10.5281/zenodo.2620929).
+_Das Internet als Daten-Netzwerk: Die Zukunft der Archäologie?_, Wintervorträge 2019, Gesellschaft der Freunde des Römisch-Germanischen Zentralmuseums in Mainz e. V. Mainz, Germany, 02nd April 2019. DOI: [10.5281/zenodo.2620929](https://doi.org/10.5281/zenodo.2620929).
 
 _Dating Mechanism: Eine Linked Data Strategie zur interoperablen und nachvollziehbaren Modellierung relativer Chronologien am Beispiel südgallischer Terra Sigillata in Limes-Abschnitten_, with Allard Mees, Graphentechnologien 2019, Mainz, Germany, 18th January 2019. DOI: [10.5281/zenodo.2540373](https://doi.org/10.5281/zenodo.2540373).
 
