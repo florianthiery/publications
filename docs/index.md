@@ -16,9 +16,19 @@ with Michael Piotrowski, Giovanni Colavizza and Kai-Christian Bruhn: _The Labeli
 
 with Stefan Hauth and Martin Schlüter: _Modular Imaging Total Stations - Sensor Fusion for high precision alignment_. In V. Schwieger et al., Eds., 3rd International Conference on Machine Control &amp; Guidance Proceedings, 202-210, Stuttgart, 2012. URL: [http://t1p.de/v21u](http://t1p.de/v21u)
 
-## My own Papers
+## Working Papers
 
-Florian Thiery. (2019). _Archaeology 4.0: Archaeology in the Third Era of Computing_, DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
+### Publication
+
+Florian Thiery. (2019). _LINKED GEODESY Working Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
+
+### Articles
+
+Florian Thiery. (2019). _Sphere 7 Data: LOUD and FAIR Data for the Research Community_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2643469](https://doi.org/10.5281/zenodo.2643469).
+
+Florian Thiery. (2019). _Archaeology 4.0: Archaeology in the Third Era of Computing_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
+
+Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
 
 ## Conference Talks
 
