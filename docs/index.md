@@ -1,6 +1,8 @@
 # List of Publications
 
-_last update on 05th April 2019 – full list at_ [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
+_last update on 18th April 2019_
+
+[http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
 ## Journal Articles
 
@@ -48,7 +50,7 @@ _Taming the chronology of South Gaulish Samian found at Hadrian&#39;s Wall and t
 
 _Linked Open Geodata in Mainz – Best Practices and Projekte im Kontext der Humanities_, DOAG Big Data Days 2018, Dresden, Germany, 21st September 2018. DOI: [10.5281/zenodo.1421690](https://doi.org/10.5281/zenodo.1421690).
 
-_RDF based modeling of relative and absolute chronological data: Examples from the central african rainforest and roman periodisation_, with Dirk Seidensticker, Allard Mees and Clemens Schmid, 24th Annual Meeting of the European Association of Archaeologists (EAA2018), Barcelona, Spain, 08th September 2018. DOI: [10.5281/zenodo.1402516](https://doi.org/10.5281/zenodo.1402516).
+_RDF based modeling of relative and absolute chronological data: Examples from the central african rainforest and roman periodisation_, with Dirk Seidensticker, Allard Mees and Clemens Schmid, 24th Annual Meeting of the European Association of Archaeologists (EAA2018), Barcelona, Spain, 08th September 2018. DOI: [10.5281/zenodo.1410516](https://doi.org/10.5281/zenodo.1410516).
 
 _Taming Time – Modelling uncertainty as reproducible Linked Open Data_, with Allard Mees, 24th Annual Meeting of the European Association of Archaeologists (EAA2018), Barcelona, Spanien, 06th September 2018. DOI: [10.5281/zenodo.1402509](https://doi.org/10.5281/zenodo.1402509).
 
