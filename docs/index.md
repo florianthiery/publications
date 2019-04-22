@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 18th April 2019_
+_last update on 22nd April 2019_
 
 [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
@@ -35,6 +35,10 @@ Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. T
 ## Conference Talks
 
 ### 2019
+
+_Taming Time Tools: Alligator and Academic Meta Tool_, with Allard Mees, Compute Applications and Quantitative Methods in Archaeology (CAA), Kraków , Germany, 24th March 2019. DOI: [10.5281/zenodo.2648202](https://doi.org/10.5281/zenodo.2648202).
+
+_ARS3D - Documenting facts and interpretations of African Red Slip Ware_, with Ashish Karmacharya and Louise Rokohl, Compute Applications and Quantitative Methods in Archaeology (CAA), Kraków , Germany, 24th March 2019. DOI: [10.5281/zenodo.2648210](https://doi.org/10.5281/zenodo.2648210).
 
 _Das Internet als Daten-Netzwerk: Die Zukunft der Archäologie?_, Wintervorträge 2019, Gesellschaft der Freunde des Römisch-Germanischen Zentralmuseums in Mainz e. V. Mainz, Germany, 02nd April 2019. DOI: [10.5281/zenodo.2620929](https://doi.org/10.5281/zenodo.2620929).
 
