@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 22nd April 2019_
+_last update on 23rd April 2019_
 
 [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
@@ -115,6 +115,8 @@ _Das Labeling System – Lösen der Mehrdeutigkeiten von Räumen und deren Funkt
 _Linking potter, pots and places: a LOD approach to samian ware_, Computer Applications and Quantitative Methods in Archaeology (CAA), Paris, France, 24th April 2014. DOI: [10.5281/zenodo.292975](https://doi.org/10.5281/zenodo.292975).
 
 ## Conference Session Chairs
+
+_Modelling Data Quality in archaeological Linked Open Data (S14)_, Introduction Slides, with Kai-Christian Bruhn and Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 2019. DOI: [10.5281/zenodo.2649053](https://doi.org/10.5281/zenodo.2649053).
 
 _Modelling Data Quality in archaeological Linked Open Data (S14)_, with Kai-Christian Bruhn and Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 2019. DOI: [10.5281/zenodo.1420244](https://doi.org/10.5281/zenodo.1420244).
 
