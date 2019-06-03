@@ -96,6 +96,10 @@ _Linked Samian Ware: Potentiale von Linked Data in der Archäologie_, 5. Worksho
 
 ## Conference Poster
 
+### 2019
+
+_Academic Meta Tool – Ein RDF basiertes Web-Tool zur Modellierung des Zweifels in den Digital Humanities_, deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland (deRSE19), Potsdam, Germany, 05th June 2019. DOI: [10.5281/zenodo.3237306](https://doi.org/10.5281/zenodo.3237306).
+
 ### 2018
 
 _RGZM-Meta-Index: A central Linked Data Hub for aligning distributed databases_, with Allard Mees, Guido Heinz, Linked Pasts IV, Mainz, Germany, 12nd December 2018. DOI: [10.5281/zenodo.2222237](https://doi.org/10.5281/zenodo.2222237).
