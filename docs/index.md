@@ -144,6 +144,14 @@ _Academic Meta Tool – Ein Web-Tool zur Modellierung des Zweifels_, with Martin
 
 _The Labeling System: A Bottom-up Approach for Enriched Vocabularies in the Humanities_, with Thomas Engel, Computer Applications and Quantitative Methods in Archaeology (CAA), Siena, Italy, 31st März 2015. DOI: [https://youtu.be/zWTpJx8PXiI](https://youtu.be/zWTpJx8PXiI).
 
+## Videos - Geodesy for Beginners
+
+_Wie erstelle ich 3D-Objekte für Google Earth?_, Fachhochschule Mainz, 2012. [https://youtu.be/GFYDiTEdxBk](https://youtu.be/GFYDiTEdxBk).
+
+_3D-Erfassung realer Objekte mit Laserscannern und deren 3D-Rekonstruktion_, Fachhochschule Mainz, 2012. [https://youtu.be/1p8LaZIzZtk](https://youtu.be/1p8LaZIzZtk).
+
+_3D-Erfassung realer Objekte & 3D-Konstruktion mit Google Sketchup_, Fachhochschule Mainz, 2012. [https://youtu.be/fI-_nio0GTo](https://youtu.be/fI-_nio0GTo).
+
 ## Datasets and Software
 
 ### Academic Meta Tool
