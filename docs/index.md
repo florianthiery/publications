@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 23rd April 2019_
+_last update on 03rd July 2019_
 
 [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
@@ -133,6 +133,8 @@ _Semantic Web und Linked Data: Generierung von Interoperabilität in archäologi
 _Eignung aktueller Industriekameras für modulare Digitalkameratachymeter_, Bachelorarbeit, stand number B0066, Supervisor: Prof. Martin Schlüter, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology, Fachhochschule Mainz, 14th April -01st June 2011. DOI: [10.5281/zenodo.292977](https://doi.org/10.5281/zenodo.292977).
 
 ## Conference Videos
+
+_Dating Mechanism: Eine Linked Data Strategie zur interoperablen und nachvollziehbaren Modellierung relativer Chronologien am Beispiel südgallischer Terra Sigillata in Limes-Abschnitten_, with Allard Mees, Graphentechnologien 2019, Mainz, Germany, 18th January 2019. DOI: [https://t1p.de/a45a](https://t1p.de/a45a).
 
 _Taming the chronology of South Gaulish Samian found at Hadrian&#39;s Wall and the German Limes using Linked Open Data_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2018), Edinburgh, Scotland, 26th October 2018. [https://youtu.be/Yka1HpuOg5M](https://youtu.be/Yka1HpuOg5M).
 
