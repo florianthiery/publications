@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 03rd July 2019_
+_last update on 22nd June 2019_
 
 [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
@@ -35,6 +35,8 @@ Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. T
 ## Conference Talks
 
 ### 2019
+
+_topi.link - A graph-based topologyfor vague geographical relations_, 32. International Geodetic Students Meeting, Warsaw, Poland, 25th June 2019. DOI: [10.5281/zenodo.3252392](https://doi.org/10.5281/zenodo.3252392).
 
 _Taming Time Tools: Alligator and Academic Meta Tool_, with Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 24th March 2019. DOI: [10.5281/zenodo.2648202](https://doi.org/10.5281/zenodo.2648202).
 
