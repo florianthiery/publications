@@ -224,6 +224,8 @@ _mainzed Jahresbericht : 2015/2016_, K.-C. Bruhn (Hg.), A. Klammt. URN: [urn:nbn
 
 ### i3mainz – Institut für Raumbezogene Informations- und Messtechnik
 
+_i3mainz Jahresbericht : 2018_, F. Boochs, N. Bruhn. URL: [https://t1p.de/h358](https://t1p.de/h358).
+
 _i3mainz Jahresbericht : 2017_, F. Boochs, N. Bruhn. URL: [http://t1p.de/0kba](http://t1p.de/0kba).
 
 _i3mainz Jahresbericht : 2016_, F. Boochs, N. Bruhn. URL: [http://t1p.de/9u10](http://t1p.de/9u10).
