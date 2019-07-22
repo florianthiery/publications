@@ -26,6 +26,8 @@ Florian Thiery. (2019). _LINKED GEODESY Working Papers_, DOI: [10.5281/zenodo.26
 
 ### Articles
 
+Florian Thiery, Martina Trognitz, Ethan Gruber, David-Wigg-Wolf. (2019). _Hic sunt dracones! the modern unknown Data Dragons_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3345711](https://doi.org/10.5281/zenodo.3345711).
+
 Florian Thiery. (2019). _Sphere 7 Data: LOUD and FAIR Data for the Research Community_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2643469](https://doi.org/10.5281/zenodo.2643469).
 
 Florian Thiery. (2019). _Archaeology 4.0: Archaeology in the Third Era of Computing_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
