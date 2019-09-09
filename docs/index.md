@@ -104,6 +104,8 @@ _Linked Samian Ware: Potentiale von Linked Data in der Archäologie_, 5. Worksho
 
 ### 2019
 
+_Hic sunt dracones! Der digitale Wandel zur Archäologie 4.0 am Beispiel römischer Münzen_, 9. Workshop der AG CAA, Wilhelmshaven, Germany, 23rd September 2019. DOI: [10.5281/zenodo.3403057](https://doi.org/10.5281/zenodo.3403057).
+
 _Academic Meta Tool – Ein RDF basiertes Web-Tool zur Modellierung des Zweifels in den Digital Humanities_, deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland (deRSE19), Potsdam, Germany, 05th June 2019. DOI: [10.5281/zenodo.3237306](https://doi.org/10.5281/zenodo.3237306).
 
 ### 2018
