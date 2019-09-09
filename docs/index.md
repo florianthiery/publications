@@ -40,7 +40,7 @@ Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. T
 
 _Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft_, Intergeo Conference, Stuttgart, Germany, 17th September 2019. DOI: [10.5281/zenodo.3403029](https://doi.org/10.5281/zenodo.3403029).
 
-_topi.link - A graph-based topologyfor vague geographical relations_, 32. International Geodetic Students Meeting, Warsaw, Poland, 25th June 2019. DOI: [10.5281/zenodo.3252392](https://doi.org/10.5281/zenodo.3252392).
+_topi.link - A graph-based topology for vague geographical relations_, 32. International Geodetic Students Meeting, Warsaw, Poland, 25th June 2019. DOI: [10.5281/zenodo.3252392](https://doi.org/10.5281/zenodo.3252392).
 
 _Taming Time Tools: Alligator and Academic Meta Tool_, with Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 24th March 2019. DOI: [10.5281/zenodo.2648202](https://doi.org/10.5281/zenodo.2648202).
 
