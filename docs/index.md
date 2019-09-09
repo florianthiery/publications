@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 22nd June 2019_
+_last update on 09nd September 2019_
 
 [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
