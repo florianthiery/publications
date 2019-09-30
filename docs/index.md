@@ -128,6 +128,10 @@ _Linking potter, pots and places: a LOD approach to samian ware_, Computer Appli
 
 ## Conference Session Chairs
 
+_Hic sunt dracones – Improving knowledge exchange in the Semantic Web with Linked Open and FAIR data (S21)_, with Martina Trognitz and Ethan Gruber, Computer Applications and Quantitative Methods in Archaeology (CAA), Oxford, United Kingdom, 2020. DOI: [10.5281/zenodo.3466014](https://doi.org/10.5281/zenodo.3466014).
+
+_Our little minions, part 3: small tools with major impact (S18)_, with Moritz Mennenga and Ronald Visser, Computer Applications and Quantitative Methods in Archaeology (CAA), Oxford, United Kingdom, 2020. DOI: [10.5281/zenodo.3466010](https://doi.org/10.5281/zenodo.3466010).
+
 _Modelling Data Quality in archaeological Linked Open Data (S14)_, Introduction Slides, with Kai-Christian Bruhn and Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 2019. DOI: [10.5281/zenodo.2649053](https://doi.org/10.5281/zenodo.2649053).
 
 _Modelling Data Quality in archaeological Linked Open Data (S14)_, with Kai-Christian Bruhn and Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 2019. DOI: [10.5281/zenodo.1420244](https://doi.org/10.5281/zenodo.1420244).
