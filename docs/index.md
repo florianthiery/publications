@@ -38,9 +38,9 @@ Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. T
 
 ### 2019
 
-_Wikidata - A SPARQL(ing) Unicorn?_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2019), Bournemouth, England, 4th October 2019. DOI: [10.5281/zenodo.3471404](https://doi.org/10.5281/zenodo.3471404).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Wikidata - A SPARQL(ing) Unicorn?_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2019), Bournemouth, England, 4th October 2019. DOI: [10.5281/zenodo.3471404](https://doi.org/10.5281/zenodo.3471404).
 
-_Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft_, Intergeo Conference, Stuttgart, Germany, 17th September 2019. DOI: [10.5281/zenodo.3403029](https://doi.org/10.5281/zenodo.3403029).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft_, Intergeo Conference, Stuttgart, Germany, 17th September 2019. DOI: [10.5281/zenodo.3403029](https://doi.org/10.5281/zenodo.3403029).
 
 _topi.link - A graph-based topology for vague geographical relations_, 32. International Geodetic Students Meeting, Warsaw, Poland, 25th June 2019. DOI: [10.5281/zenodo.3252392](https://doi.org/10.5281/zenodo.3252392).
 
