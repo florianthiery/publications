@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 09nd September 2019_
+_last update on 7nd October 2019_
 
 [http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
 
@@ -37,6 +37,8 @@ Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. T
 ## Conference Talks
 
 ### 2019
+
+_Wikidata - A SPARQL(ing) Unicorn?_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2019), Bournemouth, England, 4th October 2019. DOI: [10.5281/zenodo.3471404](https://doi.org/10.5281/zenodo.3471404).
 
 _Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft_, Intergeo Conference, Stuttgart, Germany, 17th September 2019. DOI: [10.5281/zenodo.3403029](https://doi.org/10.5281/zenodo.3403029).
 
