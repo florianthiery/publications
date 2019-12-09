@@ -106,6 +106,10 @@ _last update on 7nd October 2019_
 
 ### 2019
 
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Alligator + AMT: A Linked Pipe for taming relative chronology_, with Allard Mees, Linked Pasts V, Bordeaux, Germany, 11st December 2019. DOI: [10.5281/zenodo.3567911](https://doi.org/10.5281/zenodo.3567911).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Linked Pipes! Let us feed the hungry squirrels!_, Linked Pasts V, Bordeaux, Germany, 11st December 2019. DOI: [10.5281/zenodo.3567928](https://doi.org/10.5281/zenodo.3567928).
+
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Hic sunt dracones! Der digitale Wandel zur Archäologie 4.0 am Beispiel römischer Münzen_, 9. Workshop der AG CAA, Wilhelmshaven, Germany, 23rd September 2019. DOI: [10.5281/zenodo.3403057](https://doi.org/10.5281/zenodo.3403057).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Academic Meta Tool – Ein RDF basiertes Web-Tool zur Modellierung des Zweifels in den Digital Humanities_, deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland (deRSE19), Potsdam, Germany, 05th June 2019. DOI: [10.5281/zenodo.3237306](https://doi.org/10.5281/zenodo.3237306).
