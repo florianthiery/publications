@@ -1,8 +1,6 @@
 # List of Publications
 
-_last update on 9th Dezember 2019_
-
-[http://pub.fthiery.de](http://pub.fthiery.de) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1460341.svg)](https://doi.org/10.5281/zenodo.1460341)
+_last update on 21st February 2020_
 
 ## Journal Articles
 
@@ -35,6 +33,10 @@ _last update on 9th Dezember 2019_
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
 
 ## Conference Talks
+
+### 2020
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata_, Florian Thiery, Sophie Charlotte Schmidt, Graph Technologies in the Digital Humanities. Modelling the Scholarly Process, Vienna, Germany, 21th February 2020. DOI: [10.5281/zenodo.3675284](https://doi.org/10.5281/zenodo.3675284).
 
 ### 2019
 
