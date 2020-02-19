@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 21st February 2020_
+_last update on 21/02/2020_
 
 ## Journal Articles
 
