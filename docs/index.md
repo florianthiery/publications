@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 21/02/2020_
+_last update on 26/02/2020_
 
 ## Journal Articles
 
@@ -36,17 +36,19 @@ _last update on 21/02/2020_
 
 ### 2020
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata_, Florian Thiery, Sophie Charlotte Schmidt, Graph Technologies in the Digital Humanities. Modelling the Scholarly Process, Vienna, Germany, 21th February 2020. DOI: [10.5281/zenodo.3675284](https://doi.org/10.5281/zenodo.3675284).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata_, Florian Thiery, Sophie Charlotte Schmidt, Graph Technologies in the Digital Humanities. Modelling the Scholarly Process, Vienna, Germany, 21th February 2020. DOI: [10.5281/zenodo.3675284](https://doi.org/10.5281/zenodo.3675284).
 
 ### 2019
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Wikidata - A SPARQL(ing) Unicorn?_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2019), Bournemouth, England, 4th October 2019. DOI: [10.5281/zenodo.3471404](https://doi.org/10.5281/zenodo.3471404).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _#Linked Pipes_, Linked Pasts V, Bordeaux, Germany, 11st December 2019. DOI: [10.5281/zenodo.3688792](https://doi.org/10.5281/zenodo.3688792).
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft_, Intergeo Conference, Stuttgart, Germany, 17th September 2019. DOI: [10.5281/zenodo.3403029](https://doi.org/10.5281/zenodo.3403029).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Martina Trognitz, Florian Thiery (2019). _Wikidata - A SPARQL(ing) Unicorn?_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2019), Bournemouth, England, 4th October 2019. DOI: [10.5281/zenodo.3471404](https://doi.org/10.5281/zenodo.3471404).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _topi.link - A graph-based topology for vague geographical relations_, 32. International Geodetic Students Meeting, Warsaw, Poland, 25th June 2019. DOI: [10.5281/zenodo.3252392](https://doi.org/10.5281/zenodo.3252392).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2019). _Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft_, Intergeo Conference, Stuttgart, Germany, 17th September 2019. DOI: [10.5281/zenodo.3403029](https://doi.org/10.5281/zenodo.3403029).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Taming Time Tools: Alligator and Academic Meta Tool_, with Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 24th March 2019. DOI: [10.5281/zenodo.2648202](https://doi.org/10.5281/zenodo.2648202).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _topi.link - A graph-based topology for vague geographical relations_, 32. International Geodetic Students Meeting, Warsaw, Poland, 25th June 2019. DOI: [10.5281/zenodo.3252392](https://doi.org/10.5281/zenodo.3252392).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Allard Mees (2019). _Taming Time Tools: Alligator and Academic Meta Tool_, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 24th March 2019. DOI: [10.5281/zenodo.2648202](https://doi.org/10.5281/zenodo.2648202).
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _ARS3D - Documenting facts and interpretations of African Red Slip Ware_, with Ashish Karmacharya and Louise Rokohl, Computer Applications and Quantitative Methods in Archaeology (CAA), Kraków, Poland, 24th March 2019. DOI: [10.5281/zenodo.2648210](https://doi.org/10.5281/zenodo.2648210).
 
