@@ -4,39 +4,39 @@ _last update on 26/02/2020_
 
 ## Journal Articles
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) with Martin Unold and Allard Mees: _Academic Meta Tool – Ein Web-Tool zur Modellierung von Vagheit_. In Andreas Kuczera, Thorsten Wübbena and Thomas Kollatz, Eds., Die Modellierung des Zweifels – Schlüsselideen und -konzepte zur graphbasierten Modellierung von Unsicherheiten, (Zeitschrift für digitale Geisteswissenschaften / Sonderbände, 4), DOI: [10.17175/sb004_004](http://dx.doi.org/10.17175/sb004_004).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Martin Unold, Florian Thiery, Allard Mees (2019). _Academic Meta Tool – Ein Web-Tool zur Modellierung von Vagheit_. In Andreas Kuczera, Thorsten Wübbena and Thomas Kollatz, Eds., Die Modellierung des Zweifels – Schlüsselideen und -konzepte zur graphbasierten Modellierung von Unsicherheiten, (Zeitschrift für digitale Geisteswissenschaften / Sonderbände, 4), DOI: [10.17175/sb004_004](http://dx.doi.org/10.17175/sb004_004).
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) with Stefan Hauth and Martin Schlüter: _Schneller und ausdauernder als das menschliche Auge: Modulare Okularkameras am Motortachymeter_. Allgemeine Vermessungs-Nachrichten (avn), Vol. 120, Nr. 6, 210-216, 2013. URL: [http://t1p.de/xpnx](http://t1p.de/xpnx)
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2013). _Schneller und ausdauernder als das menschliche Auge: Modulare Okularkameras am Motortachymeter_. Allgemeine Vermessungs-Nachrichten (avn), Vol. 120, Nr. 6, 210-216, 2013. URL: [https://t1p.de/husk](https://t1p.de/husk)
 
 ## Conference Proceedings
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) with Thomas Engel: _The Labeling System: The Labelling System: A Bottom-up Approach for Enriched Vocabularies in the Humanities_. In Stefano Campana, Roberto Scopigno, Gabriella Carpentiero and Marianna Cirillo, Eds., CAA2015. Keep The Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology, Volume 1, 259-268, Oxford, NY, England, 2015. Archeopress Publishing Ltd. ISBN: 9781784913380. URL: [http://t1p.de/ed1x](http://t1p.de/ed1x)
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Thomas Engel (2015). _The Labeling System: The Labelling System: A Bottom-up Approach for Enriched Vocabularies in the Humanities_. In Stefano Campana, Roberto Scopigno, Gabriella Carpentiero and Marianna Cirillo, Eds., CAA2015. Keep The Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology, Volume 1, 259-268, Oxford, NY, England, 2015. Archeopress Publishing Ltd. ISBN: 9781784913380. URL: [http://t1p.de/ed1x](http://t1p.de/ed1x)
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) with Michael Piotrowski, Giovanni Colavizza and Kai-Christian Bruhn: _The Labeling System: A new approach to overcome the vocabulary bottleneck_. In Patrick Schwithz, Laurie Pearce and Quinn Dombrowski, Eds., Proceedings of DH-CASE II: Collaborative Annotations on Shared Environments: Metadata, Tools and Techniques in the Digital Humanities, article A1, New York, NY, USA, 2014. ACM. DOI: [10.1145/2657480.2657482](https://doi.org/10.1145/2657480.2657482).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Michael Piotrowski, Giovanni Colavizza, Florian Thiery, Kai-Christian Bruhn (2014). _The Labeling System: A new approach to overcome the vocabulary bottleneck_. In Patrick Schwithz, Laurie Pearce and Quinn Dombrowski, Eds., Proceedings of DH-CASE II: Collaborative Annotations on Shared Environments: Metadata, Tools and Techniques in the Digital Humanities, article A1, New York, NY, USA, 2014. ACM. DOI: [10.1145/2657480.2657482](https://doi.org/10.1145/2657480.2657482).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) with Stefan Hauth and Martin Schlüter: _Modular Imaging Total Stations - Sensor Fusion for high precision alignment_. In V. Schwieger et al., Eds., 3rd International Conference on Machine Control &amp; Guidance Proceedings, 202-210, Stuttgart, 2012. URL: [http://t1p.de/v21u](http://t1p.de/v21u)
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2012). _Modular Imaging Total Stations - Sensor Fusion for high precision alignment_. In V. Schwieger et al., Eds., 3rd International Conference on Machine Control &amp; Guidance Proceedings, 202-210, Stuttgart, 2012. URL: [http://t1p.de/v21u](http://t1p.de/v21u)
 
 ## Working Papers
 
 ### Publication
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery. (2019). _LINKED GEODESY Working Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _LINKED GEODESY Working Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
 
 ### Articles
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Martina Trognitz, Ethan Gruber, David-Wigg-Wolf. (2019). _Hic sunt dracones! the modern unknown Data Dragons_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3345711](https://doi.org/10.5281/zenodo.3345711).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Martina Trognitz, Ethan Gruber, David-Wigg-Wolf (2019). _Hic sunt dracones! the modern unknown Data Dragons_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3345711](https://doi.org/10.5281/zenodo.3345711).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery. (2019). _Sphere 7 Data: LOUD and FAIR Data for the Research Community_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2643469](https://doi.org/10.5281/zenodo.2643469).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _Sphere 7 Data: LOUD and FAIR Data for the Research Community_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2643469](https://doi.org/10.5281/zenodo.2643469).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery. (2019). _Archaeology 4.0: Archaeology in the Third Era of Computing_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _Archaeology 4.0: Archaeology in the Third Era of Computing_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery. (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
 
 ## Conference Talks
 
 ### 2020
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata_, Florian Thiery, Sophie Charlotte Schmidt, Graph Technologies in the Digital Humanities. Modelling the Scholarly Process, Vienna, Germany, 21th February 2020. DOI: [10.5281/zenodo.3675284](https://doi.org/10.5281/zenodo.3675284).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata_, Graph Technologies in the Digital Humanities. Modelling the Scholarly Process, Vienna, Germany, 21th February 2020. DOI: [10.5281/zenodo.3675284](https://doi.org/10.5281/zenodo.3675284).
 
 ### 2019
 
