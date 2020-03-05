@@ -1,18 +1,16 @@
 # List of Publications
 
-_last update on 26/02/2020_
+_last update on 05/03/2020_
 
-## Journal Articles
+## Paper/Articles
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Martin Unold, Florian Thiery, Allard Mees (2019). _Academic Meta Tool – Ein Web-Tool zur Modellierung von Vagheit_. In Andreas Kuczera, Thorsten Wübbena and Thomas Kollatz, Eds., Die Modellierung des Zweifels – Schlüsselideen und -konzepte zur graphbasierten Modellierung von Unsicherheiten, (Zeitschrift für digitale Geisteswissenschaften / Sonderbände, 4), DOI: [10.17175/sb004_004](http://dx.doi.org/10.17175/sb004_004).
-
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2013). _Schneller und ausdauernder als das menschliche Auge: Modulare Okularkameras am Motortachymeter_. Allgemeine Vermessungs-Nachrichten (avn), Vol. 120, Nr. 6, 210-216, 2013. URL: [PDF](https://t1p.de/husk)
-
-## Conference Proceedings
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Thomas Engel (2015). _The Labeling System: The Labelling System: A Bottom-up Approach for Enriched Vocabularies in the Humanities_. In Stefano Campana, Roberto Scopigno, Gabriella Carpentiero and Marianna Cirillo, Eds., CAA2015. Keep The Revolution Going. Proceedings of the 43rd Annual Conference on Computer Applications and Quantitative Methods in Archaeology, Volume 1, 259-268, Oxford, NY, England, 2015. Archeopress Publishing Ltd. ISBN: 9781784913380. URL: [PDF](http://t1p.de/ed1x)
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Michael Piotrowski, Giovanni Colavizza, Florian Thiery, Kai-Christian Bruhn (2014). _The Labeling System: A new approach to overcome the vocabulary bottleneck_. In Patrick Schwithz, Laurie Pearce and Quinn Dombrowski, Eds., Proceedings of DH-CASE II: Collaborative Annotations on Shared Environments: Metadata, Tools and Techniques in the Digital Humanities, article A1, New York, NY, USA, 2014. ACM. DOI: [10.1145/2657480.2657482](https://doi.org/10.1145/2657480.2657482).
+
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2013). _Schneller und ausdauernder als das menschliche Auge: Modulare Okularkameras am Motortachymeter_. Allgemeine Vermessungs-Nachrichten (avn), Vol. 120, Nr. 6, 210-216, 2013. URL: [PDF](https://t1p.de/husk)
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2012). _Modular Imaging Total Stations - Sensor Fusion for high precision alignment_. In V. Schwieger et al., Eds., 3rd International Conference on Machine Control &amp; Guidance Proceedings, 202-210, Stuttgart, 2012. ISBN: 978-3-00-037295-7. URL: [PDF](https://www.iigs.uni-stuttgart.de/forschung/mcg2012/proceedings_mcg2012.pdf)
 
@@ -107,6 +105,10 @@ _last update on 26/02/2020_
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Linked Samian Ware: Potentiale von Linked Data in der Archäologie_, 5. Workshop der AG CAA, Tübingen, Germany, 15th February 2014. DOI: [10.5281/zenodo.292971](https://doi.org/10.5281/zenodo.292971).
 
 ## Conference Poster
+
+### 2020
+
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _ᚑᚌᚔ Linked Ogham Stones - Semantische Modellierung und prototypische Analyse irischer Ogham-Inschriften_, DHd2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation, Paderborn, Germany, 05th March 2020. DOI: [10.5281/zenodo.3697059](https://doi.org/10.5281/zenodo.3697059).
 
 ### 2019
 
