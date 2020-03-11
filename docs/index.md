@@ -34,6 +34,8 @@ _last update on 05/03/2020_
 
 ### 2020
 
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins_, Anwenderkonferenz für Freie und Open Source Software für Geoinformationssysteme (FOSSGIS) 2020, Freiburg, Germany, 12th March 2020. DOI: [10.5281/zenodo.3706961](https://doi.org/10.5281/zenodo.3706961).
+
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata_, Graph Technologies in the Digital Humanities. Modelling the Scholarly Process, Vienna, Germany, 21th February 2020. DOI: [10.5281/zenodo.3675284](https://doi.org/10.5281/zenodo.3675284).
 
 ### 2019
