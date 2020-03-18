@@ -1,8 +1,10 @@
 # List of Publications
 
-_last update on 05/03/2020_
+_last update on 18/03/2020_
 
 ## Paper/Articles
+
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _Linked Ogham Stones - Semantische Modellierung und prototypische Analyse irischer Ogham-Inschriften_. In Christof Schöch, Eds., DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts, DOI: [10.5281/zenodo.3715379](https://doi.org/10.5281/zenodo.3715379).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Martin Unold, Florian Thiery, Allard Mees (2019). _Academic Meta Tool – Ein Web-Tool zur Modellierung von Vagheit_. In Andreas Kuczera, Thorsten Wübbena and Thomas Kollatz, Eds., Die Modellierung des Zweifels – Schlüsselideen und -konzepte zur graphbasierten Modellierung von Unsicherheiten, (Zeitschrift für digitale Geisteswissenschaften / Sonderbände, 4), DOI: [10.17175/sb004_004](http://dx.doi.org/10.17175/sb004_004).
 
