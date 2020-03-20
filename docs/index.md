@@ -2,6 +2,8 @@
 
 _last update on 20/03/2020_
 
+Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
+
 ## Paper and Articles
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins_. In FOSSGIS e.V., Jörg Thomsen, Eds., FOSSGIS 2020: Anwenderkonferenz für Freie und Open Source Software für Geoinformationssysteme, FOSSGIS e.V., 68-72, DOI: [10.5281/zenodo.3719127](https://doi.org/10.5281/zenodo.3719127).
