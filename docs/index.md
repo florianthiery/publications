@@ -20,6 +20,8 @@ _last update on 20/03/2020_
 
 ## Research Squirrel Engineers - Squirrel Papers
 
+[Research Squirrel Engineers Zenodo Community](https://zenodo.org/communities/researchsquirrelengineers/)
+
 ### Collection
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Research Squirrel Engineers - Squirrel Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
@@ -165,6 +167,8 @@ _last update on 20/03/2020_
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2011). _Eignung aktueller Industriekameras für modulare Digitalkameratachymeter_, Bachelorarbeit, stand number B0066, Supervisor: Prof. Martin Schlüter, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology, Fachhochschule Mainz, 14th April - 01st June 2011. DOI: [10.5281/zenodo.292977](https://doi.org/10.5281/zenodo.292977).
 
 ## KonGeoS Papers
+
+[KonGeoS Zenodo Community](https://zenodo.org/communities/kongeos/)
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Julius Fintzen (2020). _The KonGeoS Network - Working Groups and Outreach_. `Working Paper` `04/02/2020`. DOI: [10.5281/zenodo.3635468](https://doi.org/10.5281/zenodo.3635468).
 
