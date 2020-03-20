@@ -2,7 +2,7 @@
 
 _last update on 20/03/2020_
 
-## Paper/Articles
+## Paper and Articles
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins_. In FOSSGIS e.V., Jörg Thomsen, Eds., FOSSGIS 2020: Anwenderkonferenz für Freie und Open Source Software für Geoinformationssysteme, FOSSGIS e.V., 68-72, DOI: [10.5281/zenodo.3719127](https://doi.org/10.5281/zenodo.3719127).
 
@@ -34,9 +34,11 @@ _last update on 20/03/2020_
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery Ed. Linked Geodesy Working Papers. [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
 
-## Conference Talks
+## Talks
 
 ### 2020
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Sophie Charlotte Schmidt, Timo Homburg, Martina Trognitz, Monika Przybilla (2020). _SPARQLing Geodesy for Cultural Heritage: New Opportunities for Publishing and Analysing Volunteered Linked (Geo-)Data_, DVW Working Group Profession Meeting, Achim, Germany, 13th march 2020. DOI: [10.5281/zenodo.3719406](https://doi.org/10.5281/zenodo.3719406).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins_, Anwenderkonferenz für Freie und Open Source Software für Geoinformationssysteme (FOSSGIS) 2020, Freiburg, Germany, 12th March 2020. DOI: [10.5281/zenodo.3706961](https://doi.org/10.5281/zenodo.3706961).
 
