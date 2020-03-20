@@ -112,7 +112,7 @@ _last update on 20/03/2020_
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Linked Samian Ware: Potentiale von Linked Data in der Archäologie_, 5. Workshop der AG CAA, Tübingen, Germany, 15th February 2014. DOI: [10.5281/zenodo.292971](https://doi.org/10.5281/zenodo.292971).
 
-## Conference Poster
+## Poster
 
 ### 2020
 
@@ -160,9 +160,15 @@ _last update on 20/03/2020_
 
 ## Thesises
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Semantic Web und Linked Data: Generierung von Interoperabilität in archäologischen Fachdaten am Beispiel römischer Töpferstempel_, Masterthesis, stand number KM042, Supervisor: Prof. Kai-Christian Bruhn, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology and Römisch-Germanisches Zentralmuseum (RGZM), Fachhochschule Mainz, 13rd June -11st December 2013. DOI: [10.5281/zenodo.292979](https://doi.org/10.5281/zenodo.292979).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2013). _Semantic Web und Linked Data: Generierung von Interoperabilität in archäologischen Fachdaten am Beispiel römischer Töpferstempel_, Masterthesis, stand number KM042, Supervisor: Prof. Kai-Christian Bruhn, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology and Römisch-Germanisches Zentralmuseum (RGZM), Fachhochschule Mainz, 13th June - 11th December 2013. DOI: [10.5281/zenodo.292979](https://doi.org/10.5281/zenodo.292979).
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Eignung aktueller Industriekameras für modulare Digitalkameratachymeter_, Bachelorarbeit, stand number B0066, Supervisor: Prof. Martin Schlüter, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology, Fachhochschule Mainz, 14th April -01st June 2011. DOI: [10.5281/zenodo.292977](https://doi.org/10.5281/zenodo.292977).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2011). _Eignung aktueller Industriekameras für modulare Digitalkameratachymeter_, Bachelorarbeit, stand number B0066, Supervisor: Prof. Martin Schlüter, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology, Fachhochschule Mainz, 14th April - 01st June 2011. DOI: [10.5281/zenodo.292977](https://doi.org/10.5281/zenodo.292977).
+
+## KonGeoS Papers
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Julius Fintzen (2020). _The KonGeoS Network - Working Groups and Outreach_. `Working Paper` `04/02/2020`. DOI: [10.5281/zenodo.3635468](https://doi.org/10.5281/zenodo.3635468).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Severin Brochhagen, Florian Thiery (2019). _KonGeoS: Connecting the students of German speaking universities_. `Presentation` `18/09/2019`. DOI: [10.5281/zenodo.3627948](https://doi.org/10.5281/zenodo.3627948).
 
 ## Conference Videos
 
