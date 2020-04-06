@@ -22,7 +22,7 @@ Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 
 ## Research Squirrel Engineers - Squirrel Papers
 
-[Research Squirrel Engineers Zenodo Community](https://zenodo.org/communities/researchsquirrelengineers/)
+* [Research Squirrel Engineers Zenodo Community](https://zenodo.org/communities/researchsquirrelengineers/)
 
 ### Collection
 
