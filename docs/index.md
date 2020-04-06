@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 20/03/2020_
+_last update on 06/04/2020_
 
 Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 
@@ -164,9 +164,9 @@ Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 
 ## Thesises
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2013). _Semantic Web und Linked Data: Generierung von Interoperabilität in archäologischen Fachdaten am Beispiel römischer Töpferstempel_, Masterthesis, stand number KM042, Supervisor: Prof. Kai-Christian Bruhn, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology and Römisch-Germanisches Zentralmuseum (RGZM), Fachhochschule Mainz, 13th June - 11th December 2013. DOI: [10.5281/zenodo.292979](https://doi.org/10.5281/zenodo.292979).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2013). _Semantic Web und Linked Data: Generierung von Interoperabilität in archäologischen Fachdaten am Beispiel römischer Töpferstempel_, Masterthesis, stand number KM042, Supervisor: Prof. Kai-Christian Bruhn, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology and Römisch-Germanisches Zentralmuseum (RGZM), Fachhochschule Mainz, 13th June - 11th December 2013. DOI: [10.5281/zenodo.774861](https://doi.org/10.5281/zenodo.774861).
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2011). _Eignung aktueller Industriekameras für modulare Digitalkameratachymeter_, Bachelorarbeit, stand number B0066, Supervisor: Prof. Martin Schlüter, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology, Fachhochschule Mainz, 14th April - 01st June 2011. DOI: [10.5281/zenodo.292977](https://doi.org/10.5281/zenodo.292977).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2011). _Eignung aktueller Industriekameras für modulare Digitalkameratachymeter_, Bachelorarbeit, stand number B0066, Supervisor: Prof. Martin Schlüter, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology, Fachhochschule Mainz, 14th April - 01st June 2011. DOI: [10.5281/zenodo.775040](https://doi.org/10.5281/zenodo.775040).
 
 ## KonGeoS Papers
 
