@@ -26,9 +26,13 @@ Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 
 ### Collection
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Research Squirrel Engineers - Squirrel Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery et al. (2020). _Research Squirrel Engineers - Squirrel Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
 
 ### Articles
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Sophie Charlotte Schmidt, Timo Homburg, Martina Trognitz (2020). _The SPARQL Unicorn: An introduction_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3742185](https://doi.org/10.5281/zenodo.3742185).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing Ogham Stones - Blogpost_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3742191](https://doi.org/10.5281/zenodo.3742191).
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Martina Trognitz, Ethan Gruber, David-Wigg-Wolf (2019). _Hic sunt dracones! the modern unknown Data Dragons_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3345711](https://doi.org/10.5281/zenodo.3345711).
 
