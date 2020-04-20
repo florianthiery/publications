@@ -46,6 +46,16 @@ Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
 
+## Research Squirrel Engineers - Datasets
+
+### COVID-19
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Ontology_, DOI: [10.5281/zenodo.3757828](https://doi.org/10.5281/zenodo.3757828).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: JHU and ECDC_, DOI: [10.5281/zenodo.3757279](https://doi.org/10.5281/zenodo.3757279).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: RKI_, DOI: [10.5281/zenodo.3757283](https://doi.org/10.5281/zenodo.3757283).
+
 ## Talks
 
 ### 2020
