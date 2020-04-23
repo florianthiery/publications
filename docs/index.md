@@ -50,6 +50,8 @@ Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 
 ### COVID-19
 
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Python Transformation Script_, DOI: [10.5281/zenodo.3763504](https://doi.org/10.5281/zenodo.3763504).
+
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Ontology_, DOI: [10.5281/zenodo.3757828](https://doi.org/10.5281/zenodo.3757828).
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: JHU and ECDC_, DOI: [10.5281/zenodo.3757279](https://doi.org/10.5281/zenodo.3757279).
