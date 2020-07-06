@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 25/04/2020_
+_last update on 06/07/2020_
 
 Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 
@@ -61,6 +61,8 @@ Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 ## Talks
 
 ### 2020
+
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _Linked Open Geodata in GIS? Ein Überblick über Linked Geodata Open Source Software_, AGIT 2020 connecting spatially – virtually (AGIT), virtual, 06th July 2020. DOI: [10.5281/zenodo.3931261](https://doi.org/10.5281/zenodo.3931261).
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Sophie Charlotte Schmidt, Timo Homburg, Martina Trognitz, Monika Przybilla (2020). _SPARQLing Geodesy for Cultural Heritage: New Opportunities for Publishing and Analysing Volunteered Linked (Geo-)Data_, FIG Working Week 2020 (cancelled), Amsterdam, Netherlands, 13th May 2020. DOI: [10.5281/zenodo.3766155](https://doi.org/10.5281/zenodo.3766155).
 
@@ -141,6 +143,8 @@ Florian Thiery >> [Curriculum Vitae](http://cv.fthiery.de)
 ## Poster
 
 ### 2020
+
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _Linked Geodata in Action: Beispiel COVID-19_, AGIT 2020 connecting spatially – virtually (AGIT), virtual, 08th July 2020. DOI: [10.5281/zenodo.3930458](https://doi.org/10.5281/zenodo.3930458).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _ᚑᚌᚔ Linked Ogham Stones - Semantische Modellierung und prototypische Analyse irischer Ogham-Inschriften_, DHd2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation, Paderborn, Germany, 05th March 2020. DOI: [10.5281/zenodo.3697059](https://doi.org/10.5281/zenodo.3697059).
 
