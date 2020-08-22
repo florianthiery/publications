@@ -1,12 +1,12 @@
 # List of Publications
 
-_last update on 30/07/2020_
+_last update on 22/08/2020_
 
 Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
 ## Paper and Articles
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2020). _Linked COVID-19 Data - Semantische Modellierung von Linked Geodata_. In DVW e.V., Eds., Zeitschrift für Geodäsie, Geoinformation und Landmanagement (zfv), Heft 4/2020, Jahrgang 145, 198-204, DOI: [10.12902/zfv-0312-2020](https://geodaesie.info/zfv/heftbeitrag/8590).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2020). _Linked COVID-19 Data - Semantische Modellierung von Linked Geodata_. In DVW e.V., Eds., Zeitschrift für Geodäsie, Geoinformation und Landmanagement (zfv), Heft 4/2020, Jahrgang 145, 198-204, DOI: [10.12902/zfv-0312-2020](https://zenodo.org/record/3995876).
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Timo Homburg, Sophie Charlotte Schmidt, Martina Trognitz, Monika Przybilla (2020). _SPARQLing Geodesy for Cultural Heritage – New Opportunities for Publishing and Analysing Volunteered Linked (Geo-)Data_. In Fédération Internationale des Géomètres, Eds., FIG Working Week 2020 Proceedings, Kopenhagen, Denmark, 2020. ISBN 978-87-92853-93-6. DOI: [10.5281/zenodo.3751769](https://doi.org/10.5281/zenodo.3751769).
 
