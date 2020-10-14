@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 22/08/2020_
+_last update on 14/10/2020_
 
 Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
