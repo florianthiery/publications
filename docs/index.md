@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 14/10/2020_
+_last update on 17/10/2020_
 
 Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
@@ -67,6 +67,12 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 ## Talks
 
 ### 2020
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Timo Homburg, Florian Thiery (2020). _Little Minions and SPARQL Unicorns as tools for archaeology_, ARCHEO.FOSS XIV | 2020 Open software, hardware, processes, data and formats in archaeological research, virtual, 17th October 2020. DOI: [10.5281/zenodo.4091733](https://doi.org/10.5281/zenodo.4091733).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing ᚑᚌᚆᚐᚋ - Publication of Irish Ogham Stones as LOD_, ARCHEO.FOSS XIV | 2020 Open software, hardware, processes, data and formats in archaeological research, virtual, 16th October 2020. DOI: [10.5281/zenodo.4091743](https://doi.org/10.5281/zenodo.4091743).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _Linked Reindeers? A Linked Open Data approach for rock art in Alta_, Norway Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-N 2020), virtual, 16th October 2019. DOI: [10.5281/zenodo.4074912](https://doi.org/10.5281/zenodo.4074912).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _Linked Open Geodata in GIS? Ein Überblick über Linked Geodata Open Source Software_, AGIT 2020 connecting spatially – virtually (AGIT), virtual, 06th July 2020. DOI: [10.5281/zenodo.3931261](https://doi.org/10.5281/zenodo.3931261).
 
