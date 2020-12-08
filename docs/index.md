@@ -1,6 +1,6 @@
 # List of Publications
 
-_last update on 17/10/2020_
+_last update on 08/12/2020_
 
 Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
@@ -28,45 +28,17 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2013). _Schneller und ausdauernder als das menschliche Auge: Modulare Okularkameras am Motortachymeter_. Allgemeine Vermessungs-Nachrichten (avn), Vol. 120, Nr. 6, 210-216, 2013. DOI: [10.5281/zenodo.3741805](https://doi.org/10.5281/zenodo.3741805).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2012). _Modular Imaging Total Stations - Sensor Fusion for high precision alignment_. In V. Schwieger et al., Eds., 3rd International Conference on Machine Control &amp; Guidance Proceedings, 202-210, Stuttgart, 2012. ISBN: 978-3-00-037295-7. DOI: [10.5281/zenodo.3741816](https://doi.org/10.5281/zenodo.3741816).
-
-## Research Squirrel Engineers - Squirrel Papers
-
-* [Research Squirrel Engineers Zenodo Community](https://zenodo.org/communities/researchsquirrelengineers/)
-
-### Collection
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery et al. (2020). _Research Squirrel Engineers - Squirrel Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
-
-### Articles
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Sophie Charlotte Schmidt, Timo Homburg, Martina Trognitz (2020). _The SPARQL Unicorn: An introduction_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3742185](https://doi.org/10.5281/zenodo.3742185).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing Ogham Stones - Blogpost_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3742191](https://doi.org/10.5281/zenodo.3742191).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Martina Trognitz, Ethan Gruber, David-Wigg-Wolf (2019). _Hic sunt dracones! the modern unknown Data Dragons_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3345711](https://doi.org/10.5281/zenodo.3345711).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _Sphere 7 Data: LOUD and FAIR Data for the Research Community_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2643469](https://doi.org/10.5281/zenodo.2643469).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _Archaeology 4.0: Archaeology in the Third Era of Computing_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
-
-## Research Squirrel Engineers - Datasets
-
-### COVID-19
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Python Transformation Script_, DOI: [10.5281/zenodo.3763504](https://doi.org/10.5281/zenodo.3763504).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Ontology_, DOI: [10.5281/zenodo.3757828](https://doi.org/10.5281/zenodo.3757828).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: JHU and ECDC_, DOI: [10.5281/zenodo.3757279](https://doi.org/10.5281/zenodo.3757279).
-
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: RKI_, DOI: [10.5281/zenodo.3757283](https://doi.org/10.5281/zenodo.3757283).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Stefan Hauth, Martin Schlüter, Florian Thiery (2012). _Modular Imaging Total Stations - Sensor Fusion for high precision alignment_. In V. Schwieger et al., Eds., 3rd International Conference on Machine Control & Guidance Proceedings, 202-210, Stuttgart, 2012. ISBN: 978-3-00-037295-7. DOI: [10.5281/zenodo.3741816](https://doi.org/10.5281/zenodo.3741816).
 
 ## Talks
 
 ### 2020
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _#LinkedPipes - Linked Data Tools and Workflows_, Linked Pasts 6, University of London and British Library, virtual, 8th October 2020. DOI: [10.5281/zenodo.4311282](https://doi.org/10.5281/zenodo.4311282).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Allard Mees, Dennis Gottwald (2020). _Linked Open Samian Ware - Unveiling the hidden Data Dragons and uncovering temporal vagueness with the help of Little Minions_, Joint Chapter Meeting 2020 of Computer Applications and Quantitative Methods in Archaeology by the CAA chapters CAA-NL-FL and CAA-DE (JCM2020), Deventer, Netherlands, virtual, 4th October 2020. DOI: [10.5281/zenodo.4305797](https://doi.org/10.5281/zenodo.4305797).
+
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2020). _B3a IT-Grundlagen für Bibliothekare Session 4: Semantic Web, LOD_, Hochschule Potsdam, virtual, 10th November 2020. DOI: [10.5281/zenodo.4266333](https://doi.org/10.5281/zenodo.4266333).
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Timo Homburg, Florian Thiery (2020). _Little Minions and SPARQL Unicorns as tools for archaeology_, ARCHEO.FOSS XIV 2020 Open software, hardware, processes, data and formats in archaeological research, virtual, 17th October 2020. DOI: [10.5281/zenodo.4091733](https://doi.org/10.5281/zenodo.4091733).
 
@@ -108,7 +80,7 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Zweifeln erlaubt! Modellierung von Vagheit im Graphen am Beispiel des KonGeoS-Netzwerks_, 13. Konferenz der GeodäsieStudierenden, Munich, Germany, 30th November 2018. DOI: [10.5281/zenodo.1494175](https://doi.org/10.5281/zenodo.1494175).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Taming the chronology of South Gaulish Samian found at Hadrian&#39;s Wall and the German Limes using Linked Open Data_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2018), Edinburgh, Scotland, 26th October 2018. DOI: [10.5281/zenodo.1469298](https://doi.org/10.5281/zenodo.1469298).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Taming the chronology of South Gaulish Samian found at Hadrian's Wall and the German Limes using Linked Open Data_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2018), Edinburgh, Scotland, 26th October 2018. DOI: [10.5281/zenodo.1469298](https://doi.org/10.5281/zenodo.1469298).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Linked Open Geodata in Mainz – Best Practices and Projekte im Kontext der Humanities_, DOAG Big Data Days 2018, Dresden, Germany, 21st September 2018. DOI: [10.5281/zenodo.1421690](https://doi.org/10.5281/zenodo.1421690).
 
@@ -116,7 +88,7 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Taming Time – Modelling uncertainty as reproducible Linked Open Data_, with Allard Mees, 24th Annual Meeting of the European Association of Archaeologists (EAA2018), Barcelona, Spanien, 06th September 2018. DOI: [10.5281/zenodo.1402509](https://doi.org/10.5281/zenodo.1402509).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Looking for the &quot;grey value&quot; in research and geodesy: Is there right or wrong in software framework decisions?_, with Clemens Schmid, 31. International Geodetic Students Meeting, Valencia, Spain, 27th June 2018. DOI: [10.5281/zenodo.1293990](https://doi.org/10.5281/zenodo.1293990).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Looking for the "grey value" in research and geodesy: Is there right or wrong in software framework decisions?_, with Clemens Schmid, 31. International Geodetic Students Meeting, Valencia, Spain, 27th June 2018. DOI: [10.5281/zenodo.1293990](https://doi.org/10.5281/zenodo.1293990).
 
 ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Taming Ambiguity - Dealing with doubts in archaeological datasets using LOD_, with Allard Mees, Computer Applications and Quantitative Methods in Archaeology (CAA), Tübingen, Germany, 22nd March 2018. DOI: [10.5281/zenodo.1200111](https://doi.org/10.5281/zenodo.1200111).
 
@@ -126,7 +98,7 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
 ### 2017
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Avalanches on Atlantis - Real or Fake? The &quot;true&quot; story!_, with Rania Taani, 30. International Geodetic Students Meeting, Zagreb, Croatia, 27th June 2017. DOI: [10.5281/zenodo.817469](https://doi.org/10.5281/zenodo.817496).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Avalanches on Atlantis - Real or Fake? The "true" story!_, with Rania Taani, 30. International Geodetic Students Meeting, Zagreb, Croatia, 27th June 2017. DOI: [10.5281/zenodo.817469](https://doi.org/10.5281/zenodo.817496).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Das Labeling System: Erstellung kontrollierter Linked Open Data Vokabulare als Metadaten-Hub für archäologische Fachdatenbanken,_ with Allard Mees, 8. Workshop der AG CAA, Heidelberg, Germany, 11st February 2017. DOI: [10.5281/zenodo.292554](https://doi.org/10.5281/zenodo.292554).
 
@@ -155,6 +127,8 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 ## Poster
 
 ### 2020
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Allard Mees, Dennis Gottwald (2020). _Linked Open Samian Ware - Transformation and modelling of vagueness and uncertainty_, Linked Pasts 6, University of London and British Library, virtual, 4th October 2020. DOI: [10.5281/zenodo.4293761](https://doi.org/10.5281/zenodo.4293761).
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _Linked Geodata in Action: Beispiel COVID-19_, AGIT 2020 connecting spatially – virtually (AGIT), virtual, 08th July 2020. DOI: [10.5281/zenodo.3930458](https://doi.org/10.5281/zenodo.3930458).
 
@@ -206,6 +180,40 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2011). _Eignung aktueller Industriekameras für modulare Digitalkameratachymeter_, Bachelorarbeit, stand number B0066, Supervisor: Prof. Martin Schlüter, in cooperation with i3mainz - Institute for Spatial Information and Surveying Technology, Fachhochschule Mainz, 14th April - 01st June 2011. DOI: [10.5281/zenodo.775040](https://doi.org/10.5281/zenodo.775040).
 
+## Research Squirrel Engineers - Squirrel Papers
+
+-   [Research Squirrel Engineers Zenodo Community](https://zenodo.org/communities/researchsquirrelengineers/)
+
+### Collection
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery et al. (2020). _Research Squirrel Engineers - Squirrel Papers_, DOI: [10.5281/zenodo.2643727](https://doi.org/10.5281/zenodo.2643727).
+
+### Articles
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Sophie Charlotte Schmidt, Timo Homburg, Martina Trognitz (2020). _The SPARQL Unicorn: An introduction_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3742185](https://doi.org/10.5281/zenodo.3742185).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing Ogham Stones - Blogpost_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3742191](https://doi.org/10.5281/zenodo.3742191).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Martina Trognitz, Ethan Gruber, David-Wigg-Wolf (2019). _Hic sunt dracones! the modern unknown Data Dragons_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.3345711](https://doi.org/10.5281/zenodo.3345711).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _Sphere 7 Data: LOUD and FAIR Data for the Research Community_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2643469](https://doi.org/10.5281/zenodo.2643469).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _Archaeology 4.0: Archaeology in the Third Era of Computing_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2629595](https://doi.org/10.5281/zenodo.2629595).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _topi.link: The Northern and Southern Ontology_, In F. Thiery et al., Eds., Research Squirrel Engineers - [Squirrel Papers](https://doi.org/10.5281/zenodo.2643727). Mainz, Germany. DOI: [10.5281/zenodo.2635490](https://doi.org/10.5281/zenodo.2635490).
+
+## Research Squirrel Engineers - Datasets
+
+### COVID-19
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Python Transformation Script_, DOI: [10.5281/zenodo.3763504](https://doi.org/10.5281/zenodo.3763504).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Ontology_, DOI: [10.5281/zenodo.3757828](https://doi.org/10.5281/zenodo.3757828).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: JHU and ECDC_, DOI: [10.5281/zenodo.3757279](https://doi.org/10.5281/zenodo.3757279).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: RKI_, DOI: [10.5281/zenodo.3757283](https://doi.org/10.5281/zenodo.3757283).
+
 ## KonGeoS Papers
 
 [KonGeoS Zenodo Community](https://zenodo.org/communities/kongeos/)
@@ -220,85 +228,85 @@ Florian Thiery >> [Curriculum Vitae](http://data.fthiery.de/Thiery_CV.pdf)
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins_, Anwenderkonferenz für Freie und Open Source Software für Geoinformationssysteme (FOSSGIS) 2020, Freiburg, Germany, 12th March 2020. [https://t1p.de/drav](https://media.ccc.de/v/fossgis2020-2990-qgis-a-sparqling-unicorn-eine-einfhrung-in-linked-open-geodata-zur-integration-von-rdf-in-qgis-plugins).
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Dating Mechanism: Eine Linked Data Strategie zur interoperablen und nachvollziehbaren Modellierung relativer Chronologien am Beispiel südgallischer Terra Sigillata in Limes-Abschnitten_, with Allard Mees, Graphentechnologien 2019, Mainz, Germany, 18th January 2019. DOI: [https://t1p.de/a45a](https://t1p.de/a45a).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Dating Mechanism: Eine Linked Data Strategie zur interoperablen und nachvollziehbaren Modellierung relativer Chronologien am Beispiel südgallischer Terra Sigillata in Limes-Abschnitten_, with Allard Mees, Graphentechnologien 2019, Mainz, Germany, 18th January 2019. DOI: <https://t1p.de/a45a>.
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Taming the chronology of South Gaulish Samian found at Hadrian&#39;s Wall and the German Limes using Linked Open Data_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2018), Edinburgh, Scotland, 26th October 2018. [https://youtu.be/Yka1HpuOg5M](https://youtu.be/Yka1HpuOg5M).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Taming the chronology of South Gaulish Samian found at Hadrian's Wall and the German Limes using Linked Open Data_, UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2018), Edinburgh, Scotland, 26th October 2018. <https://youtu.be/Yka1HpuOg5M>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Putting Samian pots together – modelling ceramic service family roots – connecting figure types._ _Wie Graphen bei der Modellierung des Zweifels helfen können._, with Allard Mees, Graphentechnologien 2018, Mainz, Germany, 19th January 2018. [http://t1p.de/qa69](http://t1p.de/qa69).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Putting Samian pots together – modelling ceramic service family roots – connecting figure types._ _Wie Graphen bei der Modellierung des Zweifels helfen können._, with Allard Mees, Graphentechnologien 2018, Mainz, Germany, 19th January 2018. <http://t1p.de/qa69>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Academic Meta Tool – Ein Web-Tool zur Modellierung des Zweifels_, with Martin Unold, Graphentechnologien 2018, Mainz, Germany, 19th January 2018. DOI: [http://t1p.de/qw75](http://t1p.de/qw75).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Academic Meta Tool – Ein Web-Tool zur Modellierung des Zweifels_, with Martin Unold, Graphentechnologien 2018, Mainz, Germany, 19th January 2018. DOI: <http://t1p.de/qw75>.
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _The Labeling System: A Bottom-up Approach for Enriched Vocabularies in the Humanities_, with Thomas Engel, Computer Applications and Quantitative Methods in Archaeology (CAA), Siena, Italy, 31st März 2015. DOI: [https://youtu.be/zWTpJx8PXiI](https://youtu.be/zWTpJx8PXiI).
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _The Labeling System: A Bottom-up Approach for Enriched Vocabularies in the Humanities_, with Thomas Engel, Computer Applications and Quantitative Methods in Archaeology (CAA), Siena, Italy, 31st März 2015. DOI: <https://youtu.be/zWTpJx8PXiI>.
 
 ## Videos - Geodesy for Beginners
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Wie erstelle ich 3D-Objekte für Google Earth?_, Fachhochschule Mainz, 2012. [https://youtu.be/GFYDiTEdxBk](https://youtu.be/GFYDiTEdxBk).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Wie erstelle ich 3D-Objekte für Google Earth?_, Fachhochschule Mainz, 2012. <https://youtu.be/GFYDiTEdxBk>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _3D-Erfassung realer Objekte mit Laserscannern und deren 3D-Rekonstruktion_, Fachhochschule Mainz, 2012. [https://youtu.be/1p8LaZIzZtk](https://youtu.be/1p8LaZIzZtk).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _3D-Erfassung realer Objekte mit Laserscannern und deren 3D-Rekonstruktion_, Fachhochschule Mainz, 2012. <https://youtu.be/1p8LaZIzZtk>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _3D-Erfassung realer Objekte & 3D-Konstruktion mit Google Sketchup_, Fachhochschule Mainz, 2012. [https://youtu.be/fI-_nio0GTo](https://youtu.be/fI-_nio0GTo).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _3D-Erfassung realer Objekte & 3D-Konstruktion mit Google Sketchup_, Fachhochschule Mainz, 2012. <https://youtu.be/fI-_nio0GTo>.
 
 ## Datasets and Software
 
 ### Academic Meta Tool
 
-Martin Unold &amp; Florian Thiery. (2018, January 19). _Academic Meta Tool - amt.js (Version 1.0)._ Zenodo. [http://doi.org/10.5281/zenodo.1342310](http://doi.org/10.5281/zenodo.1342310)
+Martin Unold & Florian Thiery. (2018, January 19). _Academic Meta Tool - amt.js (Version 1.0)._ Zenodo. <http://doi.org/10.5281/zenodo.1342310>
 
-Florian Thiery &amp; Martin Unold. (2018). _Academic Meta Tool - Ontology (Version Leonard Edition) [Data set]._ Zenodo. [http://doi.org/10.5281/zenodo.1342536](http://doi.org/10.5281/zenodo.1342536)
+Florian Thiery & Martin Unold. (2018). _Academic Meta Tool - Ontology (Version Leonard Edition) [Data set]._ Zenodo. <http://doi.org/10.5281/zenodo.1342536>
 
-Florian Thiery &amp; Martin Unold. (2018). _Academic Meta Tool - Vocabulary (Version Penny Edition) [Data set]._ Zenodo. [http://doi.org/10.5281/zenodo.1342530](http://doi.org/10.5281/zenodo.1342530%20)
+Florian Thiery & Martin Unold. (2018). _Academic Meta Tool - Vocabulary (Version Penny Edition) [Data set]._ Zenodo. [http://doi.org/10.5281/zenodo.1342530](http://doi.org/10.5281/zenodo.1342530%20)
 
 ### Alligator
 
-Florian Thiery. (2019, January 15). RGZM/alligator v0.1 (Version v0.1). Zenodo. [http://doi.org/10.5281/zenodo.2540710](http://doi.org/10.5281/zenodo.2540710)[https://github.com/RGZM/alligator](https://github.com/RGZM/alligator)
+Florian Thiery. (2019, January 15). RGZM/alligator v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540710><https://github.com/RGZM/alligator>
 
-Florian Thiery &amp; Allard Mees. (2018). _Alligator - Vocabulary (Version Vättern Edition) [Data set]._ Zenodo. [http://doi.org/10.5281/zenodo.1436351](http://doi.org/10.5281/zenodo.1436351)
+Florian Thiery & Allard Mees. (2018). _Alligator - Vocabulary (Version Vättern Edition) [Data set]._ Zenodo. <http://doi.org/10.5281/zenodo.1436351>
 
 ### Chronontology
 
-Florian Thiery, &amp; Sebastian Cuy. (2018, October 31). i3mainz/chronontology-spatialapi v1.0 (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.1476053](http://doi.org/10.5281/zenodo.1476053)[https://github.com/i3mainz/chronontology-spatialapi](https://github.com/i3mainz/chronontology-spatialapi)
+Florian Thiery, & Sebastian Cuy. (2018, October 31). i3mainz/chronontology-spatialapi v1.0 (Version v1.0). Zenodo. <http://doi.org/10.5281/zenodo.1476053><https://github.com/i3mainz/chronontology-spatialapi>
 
-Florian Thiery. (2018, October 31). linkedgeodesy/gazetteer-json: chronontology release (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.1476020](http://doi.org/10.5281/zenodo.1476020)[https://github.com/linkedgeodesy/gazetteer-json](https://github.com/linkedgeodesy/gazetteer-json)
+Florian Thiery. (2018, October 31). linkedgeodesy/gazetteer-json: chronontology release (Version v1.0). Zenodo. <http://doi.org/10.5281/zenodo.1476020><https://github.com/linkedgeodesy/gazetteer-json>
 
-Florian Thiery. (2019, January 15). linkedgeodesy/geojson-plus v1.0 (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.2540701](http://doi.org/10.5281/zenodo.2540701)
+Florian Thiery. (2019, January 15). linkedgeodesy/geojson-plus v1.0 (Version v1.0). Zenodo. <http://doi.org/10.5281/zenodo.2540701>
 
-Florian Thiery. (2019, January 15). linkedgeodesy/geojson-plus-ld v1.0 (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.2540703](http://doi.org/10.5281/zenodo.2540703)
+Florian Thiery. (2019, January 15). linkedgeodesy/geojson-plus-ld v1.0 (Version v1.0). Zenodo. <http://doi.org/10.5281/zenodo.2540703>
 
 ### Labeling System
 
-Florian Thiery. (2019, January 15). mainzed/labelingsystem-server v0.1 (Version v0.1). Zenodo. [http://doi.org/10.5281/zenodo.2540712](http://doi.org/10.5281/zenodo.2540712)[https://github.com/mainzed/labelingsystem-server](https://github.com/mainzed/labelingsystem-server)
+Florian Thiery. (2019, January 15). mainzed/labelingsystem-server v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540712><https://github.com/mainzed/labelingsystem-server>
 
-Axel Kunz, Matthias Dufner &amp; Florian Thiery. (2019, January 15). mainzed/labelingsystem-client v0.1 (Version v0.1). Zenodo. [http://doi.org/10.5281/zenodo.2540714](http://doi.org/10.5281/zenodo.2540714)[https://github.com/mainzed/labelingsystem-client](https://github.com/mainzed/labelingsystem-client)
+Axel Kunz, Matthias Dufner & Florian Thiery. (2019, January 15). mainzed/labelingsystem-client v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540714><https://github.com/mainzed/labelingsystem-client>
 
-Florian Thiery. (2017, February 24). _Labeling System Datamodel - Alperton Edition - 24/02/2017._ Zenodo. [http://doi.org/10.5281/zenodo.322257](http://doi.org/10.5281/zenodo.322257)
+Florian Thiery. (2017, February 24). _Labeling System Datamodel - Alperton Edition - 24/02/2017._ Zenodo. <http://doi.org/10.5281/zenodo.322257>
 
-Florian Thiery. (2017, February 24). Labeling System Vocabulary - Aldgate Edition - 24/02/2017 (b). Zenodo. [http://doi.org/10.5281/zenodo.322265](http://doi.org/10.5281/zenodo.322265)
+Florian Thiery. (2017, February 24). Labeling System Vocabulary - Aldgate Edition - 24/02/2017 (b). Zenodo. <http://doi.org/10.5281/zenodo.322265>
 
 ### Conference Repositories
 
-Florian Thiery. (2019, January 15). RGZM/dm-gt2019 v0.1 (Version v0.1). Zenodo. [http://doi.org/10.5281/zenodo.2540733](http://doi.org/10.5281/zenodo.2540733) [https://github.com/RGZM/dm-gt2019](https://github.com/RGZM/dm-gt2019)
+Florian Thiery. (2019, January 15). RGZM/dm-gt2019 v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540733> <https://github.com/RGZM/dm-gt2019>
 
-Florian Thiery. (2019, January 15). RGZM/amt-kongeos2018 v0.1 (Version v0.1). Zenodo. [http://doi.org/10.5281/zenodo.2540731](http://doi.org/10.5281/zenodo.2540731) [https://github.com/RGZM/amt-kongeos2018](https://github.com/RGZM/amt-kongeos2018)
+Florian Thiery. (2019, January 15). RGZM/amt-kongeos2018 v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540731> <https://github.com/RGZM/amt-kongeos2018>
 
-Florian Thiery. (2019, January 15). RGZM/amt-caauk2018 v0.1 (Version v0.1). Zenodo. [http://doi.org/10.5281/zenodo.2540729](http://doi.org/10.5281/zenodo.2540729) [https://github.com/RGZM/amt-caauk2018](https://github.com/RGZM/amt-caauk2018)
+Florian Thiery. (2019, January 15). RGZM/amt-caauk2018 v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540729> <https://github.com/RGZM/amt-caauk2018>
 
-Florian Thiery. (2019, January 15). RGZM/amt-eaa2018 v0.1 (Version v0.1). Zenodo. [http://doi.org/10.5281/zenodo.2540727](http://doi.org/10.5281/zenodo.2540727) [https://github.com/RGZM/amt-eaa2018](https://github.com/RGZM/amt-eaa2018)
+Florian Thiery. (2019, January 15). RGZM/amt-eaa2018 v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540727> <https://github.com/RGZM/amt-eaa2018>
 
-Florian Thiery. (2018, August 11). RGZM/amt-caa2018 1.0 (Version 1.0). Zenodo. [http://doi.org/10.5281/zenodo.1343916](http://doi.org/10.5281/zenodo.1343916) [https://github.com/RGZM/amt-caa2018](https://github.com/RGZM/amt-caa2018)
+Florian Thiery. (2018, August 11). RGZM/amt-caa2018 1.0 (Version 1.0). Zenodo. <http://doi.org/10.5281/zenodo.1343916> <https://github.com/RGZM/amt-caa2018>
 
-Florian Thiery. (2018, March 6). RGZM/amt-gt2018: first release (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.1189254](http://doi.org/10.5281/zenodo.1189254) [https://github.com/RGZM/amt-gt2018](https://github.com/RGZM/amt-gt2018)
+Florian Thiery. (2018, March 6). RGZM/amt-gt2018: first release (Version v1.0). Zenodo. <http://doi.org/10.5281/zenodo.1189254> <https://github.com/RGZM/amt-gt2018>
 
 ## Best Practice Papers
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Einrechnung von Laserterminals LCT für Europas Space-Data-Highway EDRS_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2013.02. URL: [http://t1p.de/p4vi](http://t1p.de/p4vi).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Einrechnung von Laserterminals LCT für Europas Space-Data-Highway EDRS_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2013.02. URL: <http://t1p.de/p4vi>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _KOMP3DMETROLOGY I und II – Kompetenzweiterentwicklung für den Kooperationsaufbau, Wissens- und Technologietransfer im Bereich 3D-Metrology_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2011.16. URL: [http://t1p.de/fr42](http://t1p.de/fr42).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _KOMP3DMETROLOGY I und II – Kompetenzweiterentwicklung für den Kooperationsaufbau, Wissens- und Technologietransfer im Bereich 3D-Metrology_, Martin Schlüter et. al. In: BestPractice Forschungsprojekte FH Mainz, Fachbereich Technik, 2011.16. URL: <http://t1p.de/fr42>.
 
 ## Jahresberichte
 
 ### mainzed – Mainzer Zentrum für Digitalität in den Geistes- und Kulturwissenschaften
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _mainzed Jahresbericht : 2017/2018_, K.-C. Bruhn (Hg.), A. Klammt. URL: [http://t1p.de/4xnk](http://t1p.de/4xnk).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _mainzed Jahresbericht : 2017/2018_, K.-C. Bruhn (Hg.), A. Klammt. URL: <http://t1p.de/4xnk>.
 
 ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _mainzed Jahresbericht : 2016/2017_, K.-C. Bruhn (Hg.), A. Klammt. URN: [urn:nbn:de:hebis:77-publ-572507](http://nbn-resolving.de/urn:nbn:de:hebis:77-publ-572507).
 
@@ -306,20 +314,20 @@ Florian Thiery. (2018, March 6). RGZM/amt-gt2018: first release (Version v1.0). 
 
 ### i3mainz – Institut für Raumbezogene Informations- und Messtechnik
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2018_, F. Boochs, N. Bruhn. URL: [https://t1p.de/h358](https://t1p.de/h358).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2018_, F. Boochs, N. Bruhn. URL: <https://t1p.de/h358>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2017_, F. Boochs, N. Bruhn. URL: [http://t1p.de/0kba](http://t1p.de/0kba).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2017_, F. Boochs, N. Bruhn. URL: <http://t1p.de/0kba>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2016_, F. Boochs, N. Bruhn. URL: [http://t1p.de/9u10](http://t1p.de/9u10).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2016_, F. Boochs, N. Bruhn. URL: <http://t1p.de/9u10>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2015_, F. Boochs, N. Bruhn, J. Wachter. URL: [http://t1p.de/8aey](http://t1p.de/8aey).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2015_, F. Boochs, N. Bruhn, J. Wachter. URL: <http://t1p.de/8aey>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2014_, F. Boochs, N. Bruhn, J. Wachter. URL: [http://t1p.de/8u3x](http://t1p.de/8u3x).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2014_, F. Boochs, N. Bruhn, J. Wachter. URL: <http://t1p.de/8u3x>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2013_, F. Boochs, N. Bruhn, J. Wachter. URL: [http://t1p.de/3hjz](http://t1p.de/3hjz).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2013_, F. Boochs, N. Bruhn, J. Wachter. URL: <http://t1p.de/3hjz>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2012_, F. Boochs, A. Gundlach, J. Wachter. URL: [http://t1p.de/nmx3](http://t1p.de/nmx3).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2012_, F. Boochs, A. Gundlach, J. Wachter. URL: <http://t1p.de/nmx3>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2011,_ F. Boochs et. al.. URL: [http://t1p.de/5sil](http://t1p.de/5sil).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2011,_ F. Boochs et. al.. URL: <http://t1p.de/5sil>.
 
-![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2010,_ F. Boochs et. al.. URL: [http://t1p.de/41eg](http://t1p.de/41eg).
+![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _i3mainz Jahresbericht : 2010,_ F. Boochs et. al.. URL: <http://t1p.de/41eg>.
